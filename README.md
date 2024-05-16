@@ -27,3 +27,5 @@ git clone https://github.com/William2716057/contourPlots.git
 ```
 python3 contourPlots.py
 ```
+
+![screenshot](https://github.com/William2716057/contourPlots/assets/77903649/4c07974f-f37e-445b-9e94-89617a848292)
